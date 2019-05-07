@@ -12,12 +12,12 @@ Add the API_KEY header API_DEMO to the HTTP request to have access.
 |**q:** *string*  Search query term or phrase.| banana |
 |**length:** integer The maximum number of records to return. Default 25 | 20 |
 
-#### Sucessful Response (200)
+#### Successful Response (200)
 >Gif Object[]
 
 ## Random endpoint
 **Path:** /v1/gifs/random
 **Description:** Returns a completely random GIF.
 
-#### Sucessful Response (200)
+#### Successful Response (200)
 >Gif Object
